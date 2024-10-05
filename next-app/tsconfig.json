@@ -15,6 +15,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "incremental": true,
+    "noUnusedLocals": false,
     "jsx": "preserve",
     "types": [
       "react",
